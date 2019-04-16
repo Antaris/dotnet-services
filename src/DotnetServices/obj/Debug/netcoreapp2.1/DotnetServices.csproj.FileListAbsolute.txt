@@ -1,0 +1,14 @@
+C:\projects\github\dotnet-services\src\DotnetServices\bin\Debug\netcoreapp2.1\DotnetServices.deps.json
+C:\projects\github\dotnet-services\src\DotnetServices\bin\Debug\netcoreapp2.1\DotnetServices.runtimeconfig.json
+C:\projects\github\dotnet-services\src\DotnetServices\bin\Debug\netcoreapp2.1\DotnetServices.runtimeconfig.dev.json
+C:\projects\github\dotnet-services\src\DotnetServices\bin\Debug\netcoreapp2.1\DotnetServices.dll
+C:\projects\github\dotnet-services\src\DotnetServices\bin\Debug\netcoreapp2.1\DotnetServices.pdb
+C:\projects\github\dotnet-services\src\DotnetServices\bin\Debug\netcoreapp2.1\DotnetServices.Core.dll
+C:\projects\github\dotnet-services\src\DotnetServices\bin\Debug\netcoreapp2.1\DotnetServices.Core.pdb
+C:\projects\github\dotnet-services\src\DotnetServices\obj\Debug\netcoreapp2.1\DotnetServices.csprojAssemblyReference.cache
+C:\projects\github\dotnet-services\src\DotnetServices\obj\Debug\netcoreapp2.1\DotnetServices.csproj.CoreCompileInputs.cache
+C:\projects\github\dotnet-services\src\DotnetServices\obj\Debug\netcoreapp2.1\DotnetServices.AssemblyInfoInputs.cache
+C:\projects\github\dotnet-services\src\DotnetServices\obj\Debug\netcoreapp2.1\DotnetServices.AssemblyInfo.cs
+C:\projects\github\dotnet-services\src\DotnetServices\obj\Debug\netcoreapp2.1\DotnetServices.csproj.CopyComplete
+C:\projects\github\dotnet-services\src\DotnetServices\obj\Debug\netcoreapp2.1\DotnetServices.dll
+C:\projects\github\dotnet-services\src\DotnetServices\obj\Debug\netcoreapp2.1\DotnetServices.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotnetServices": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../../samples/SampleWeb/"
+    }
+  }
+}

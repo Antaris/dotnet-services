@@ -1,0 +1,11 @@
+C:\projects\github\dotnet-services\samples\SampleConsole\bin\Debug\netcoreapp2.1\SampleConsole.deps.json
+C:\projects\github\dotnet-services\samples\SampleConsole\bin\Debug\netcoreapp2.1\SampleConsole.runtimeconfig.json
+C:\projects\github\dotnet-services\samples\SampleConsole\bin\Debug\netcoreapp2.1\SampleConsole.runtimeconfig.dev.json
+C:\projects\github\dotnet-services\samples\SampleConsole\bin\Debug\netcoreapp2.1\SampleConsole.dll
+C:\projects\github\dotnet-services\samples\SampleConsole\bin\Debug\netcoreapp2.1\SampleConsole.pdb
+C:\projects\github\dotnet-services\samples\SampleConsole\obj\Debug\netcoreapp2.1\SampleConsole.csprojAssemblyReference.cache
+C:\projects\github\dotnet-services\samples\SampleConsole\obj\Debug\netcoreapp2.1\SampleConsole.csproj.CoreCompileInputs.cache
+C:\projects\github\dotnet-services\samples\SampleConsole\obj\Debug\netcoreapp2.1\SampleConsole.AssemblyInfoInputs.cache
+C:\projects\github\dotnet-services\samples\SampleConsole\obj\Debug\netcoreapp2.1\SampleConsole.AssemblyInfo.cs
+C:\projects\github\dotnet-services\samples\SampleConsole\obj\Debug\netcoreapp2.1\SampleConsole.dll
+C:\projects\github\dotnet-services\samples\SampleConsole\obj\Debug\netcoreapp2.1\SampleConsole.pdb

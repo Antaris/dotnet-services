@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ToolCommandName>dotnet-services</ToolCommandName>
+    <PackAsTool>True</PackAsTool>
+    <Version>0.1.0</Version>
+    <PackageId>dotnet-services</PackageId>
+    <Title>dotnet-services</Title>
+    <Authors>Matthew Abbott</Authors>
+    <Description>Services explorer for .NET</Description>
+    <Copyright>2018 Matthew Abbott</Copyright>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageProjectUrl></PackageProjectUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="McMaster.Extensions.CommandLineUtils" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" />
+    <PackageReference Include="Terminal.Gui" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotnetServices.Core\DotnetServices.Core.csproj" />
+  </ItemGroup>
+
+</Project>

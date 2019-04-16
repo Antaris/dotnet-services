@@ -1,0 +1,9 @@
+C:\projects\github\dotnet-services\src\DotnetServices.Core\bin\Debug\netstandard2.0\DotnetServices.Core.deps.json
+C:\projects\github\dotnet-services\src\DotnetServices.Core\bin\Debug\netstandard2.0\DotnetServices.Core.dll
+C:\projects\github\dotnet-services\src\DotnetServices.Core\bin\Debug\netstandard2.0\DotnetServices.Core.pdb
+C:\projects\github\dotnet-services\src\DotnetServices.Core\obj\Debug\netstandard2.0\DotnetServices.Core.csprojAssemblyReference.cache
+C:\projects\github\dotnet-services\src\DotnetServices.Core\obj\Debug\netstandard2.0\DotnetServices.Core.csproj.CoreCompileInputs.cache
+C:\projects\github\dotnet-services\src\DotnetServices.Core\obj\Debug\netstandard2.0\DotnetServices.Core.AssemblyInfoInputs.cache
+C:\projects\github\dotnet-services\src\DotnetServices.Core\obj\Debug\netstandard2.0\DotnetServices.Core.AssemblyInfo.cs
+C:\projects\github\dotnet-services\src\DotnetServices.Core\obj\Debug\netstandard2.0\DotnetServices.Core.dll
+C:\projects\github\dotnet-services\src\DotnetServices.Core\obj\Debug\netstandard2.0\DotnetServices.Core.pdb

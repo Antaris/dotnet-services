@@ -1,0 +1,9 @@
+C:\projects\github\dotnet-services\samples\SampleWeb\bin\Debug\netcoreapp2.1\SampleWeb.deps.json
+C:\projects\github\dotnet-services\samples\SampleWeb\bin\Debug\netcoreapp2.1\SampleWeb.runtimeconfig.json
+C:\projects\github\dotnet-services\samples\SampleWeb\bin\Debug\netcoreapp2.1\SampleWeb.runtimeconfig.dev.json
+C:\projects\github\dotnet-services\samples\SampleWeb\obj\Debug\netcoreapp2.1\SampleWeb.csproj.CoreCompileInputs.cache
+C:\projects\github\dotnet-services\samples\SampleWeb\obj\Debug\netcoreapp2.1\SampleWeb.RazorAssemblyInfo.cache
+C:\projects\github\dotnet-services\samples\SampleWeb\obj\Debug\netcoreapp2.1\SampleWeb.RazorAssemblyInfo.cs
+C:\projects\github\dotnet-services\samples\SampleWeb\obj\Debug\netcoreapp2.1\SampleWeb.AssemblyInfoInputs.cache
+C:\projects\github\dotnet-services\samples\SampleWeb\obj\Debug\netcoreapp2.1\SampleWeb.AssemblyInfo.cs
+C:\projects\github\dotnet-services\samples\SampleWeb\obj\Debug\netcoreapp2.1\SampleWeb.RazorTargetAssemblyInfo.cache

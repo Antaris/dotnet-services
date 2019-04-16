@@ -1,0 +1,10 @@
+<Project>
+	<ItemGroup>
+		<PackageReference Update="buildalyzer" Version="1.0.0" />
+		<PackageReference Update="McMaster.Extensions.CommandLineUtils" Version="2.2.5" />
+		<PackageReference Update="Microsoft.Extensions.Logging.Console" Version="2.1.1" />
+		<PackageReference Update="NuGet.Build.Tasks" Version="4.7.0" />
+		<PackageReference Update="NuGet.ProjectModel" Version="4.7.0" />
+		<PackageReference Update="Terminal.Gui" Version="0.16.0" />
+	</ItemGroup>
+</Project>
